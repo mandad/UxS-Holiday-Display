@@ -1,0 +1,5 @@
+{
+  "name": "SleighOS Ops Center",
+  "description": "A high-tech, holiday-themed robotics status dashboard managing an autonomous fleet (UAS, USV, Gliders) using Gemini Flash Lite.",
+  "requestFramePermissions": []
+}
